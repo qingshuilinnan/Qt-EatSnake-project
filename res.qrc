@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>snakeicon/down.png</file>
+        <file>snakeicon/left.png</file>
+        <file>snakeicon/right.png</file>
+        <file>snakeicon/up.png</file>
+        <file>snakeicon/food.jpg</file>
+        <file>music/death_sound.mp3</file>
+        <file>music/eat_sound.mp3</file>
+        <file>music/game_bgm.mp3</file>
+        <file>snakeicon/background.jpg</file>
+    </qresource>
+</RCC>
